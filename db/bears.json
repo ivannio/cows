@@ -1,0 +1,34 @@
+{
+  "bears": [
+    {
+      "id": "bear1",
+      "type": "brown",
+      "color": "brown",
+      "lastMeal": "Michael",
+      "size": "large",
+      "weight": 5,
+      "isHungry": true,
+      "location": "Michael's house"
+    },
+    {
+      "id": "bear2",
+      "type": "panda",
+      "color": "black and white",
+      "lastMeal": "bamboo",
+      "size": "large",
+      "weight": 5,
+      "isHungry": false,
+      "location": "China"
+    },
+    {
+      "id": "bear3",
+      "type": "polar",
+      "color": "white",
+      "lastMeal": "sno-cone",
+      "size": "large",
+      "weight": 6,
+      "isHungry": true,
+      "location": "Antarctica"
+    }
+  ]
+}
